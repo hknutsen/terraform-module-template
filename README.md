@@ -1,2 +1,3 @@
-# terraform-module-template
-Template repository for creating Terraform modules.
+# {provider} {name} Terraform Module
+
+Terraform module which creates {provider} {service} resources.
